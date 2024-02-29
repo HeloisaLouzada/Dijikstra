@@ -1,4 +1,4 @@
-Algoritmo que realiza comparações entre cidades
+Algoritmo que realiza comparações entre cidades, respondendo as seguintes questões:<br>
 1 - Qual cidade com maior número de vizinhos?<br>
 2 - Qual cidade com menor número de vizinhos?<br>
 3 - Qual cidade possui o vizinho mais distante?<br>
