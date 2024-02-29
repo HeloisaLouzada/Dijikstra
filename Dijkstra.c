@@ -207,7 +207,6 @@ int main() {
 				break;
 			case 5:
 				//5. Dado os nomes de duas cidades pertencentes a matriz de adjacência, qual a distância entre elas?
-				//adjacencia(dist, cidades);
 				ativarFuncao(dist, cidades, op, adjacencia);
 				break;
 			default:
